@@ -45,7 +45,7 @@ Link: https://azure.microsoft.com/es-es/free/
 Link: https://aws.amazon.com/es/free/
 
 #### Jetbrains
-Si bien no parece a simple vista que tenga productos con capa gratuita, aquí pondremos algunos
+Si bien no parece a simple vista que tenga productos con capa gratuita, si que los tiene:
 - _IntelliJ IDEA Community Edition:_ Versión gratuita y limitada del IDE
 - _Youtrack:_ Sistema de gestión de incidendias y proyectos. Gratis en su version "standalone" o "on-demand" para un máximo de hasta 10 usuarios.
 - _Teamcity:_ Sistema de integración contínua. Gratis con un máximo de 3 agentes (máquinas que ejecutan tareas de los pipelines)
